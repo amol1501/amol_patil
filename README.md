@@ -1,5 +1,3 @@
-
-preview
 <h1 align="center">Hi 👋, I'm Amol Patil</h1>
 <h3 align="center">Site Reliability Engineer with 11 Years of Experience in IT with 4 years of expertise in DevOps and SRE Practices</h3>
 
